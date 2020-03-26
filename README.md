@@ -1,2 +1,2 @@
-# iracing-garage-app
+# iRacing Garage
 Application for iRacing Garage
